@@ -1,4 +1,4 @@
-# **Basic Client Examples to demonstrate Outbound Calls with call recording using Enablex Voice APIs. **
+# Learn to make Outbound Calls with automatic call recording using Enablex Programmable Voice APIs.
 This example contains instructions how users can initiate Outbound Calls and start call Recording.
 
 
